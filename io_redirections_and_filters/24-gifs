@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -iname "*.gif" | sort -f | while read file; do echo "${file%.*}"; done
+find . -name “*.gif”
