@@ -1,2 +1,0 @@
-#!/bin/bash
-printenv | head -n 2
