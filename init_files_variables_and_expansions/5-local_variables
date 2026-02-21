@@ -1,4 +1,3 @@
 #!/bin/bash
 printenv
 declare -p
-declare -f
